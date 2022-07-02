@@ -41,6 +41,15 @@ Here, I 'll try to use KNN to create a model that directly predicts a class for 
 
 In this data project, I carefully followed the instructions by DataScience Bootcamp to prove my ability to solve real-world K Nearest Neighbors Project.
 
-[![07 - 07-Decision Trees and Random Forests -](https://img.shields.io/badge/project-07--Decision%20Trees%20and%20Random%20Forests-red)](https://github.com/Matt-Chang/Machine_Learning_Projects/blob/main/07-Decision%20Trees%20and%20Random%20Forests%20in%20Python.ipynb)
+[![07 -Decision Trees and Random Forests -](https://img.shields.io/badge/project-07--Decision%20Trees%20and%20Random%20Forests-red)](https://github.com/Matt-Chang/Machine_Learning_Projects/blob/main/07-Decision%20Trees%20and%20Random%20Forests%20in%20Python.ipynb)
 
 Based on the data set kyphosis, I used simple Decision Trees and Random Forests to predict the result.
+
+[![07-02 -Decision Trees and Random Forests -](https://img.shields.io/badge/project-07--2--Decision%20Trees%20and%20Random%20Forest-red)](https://github.com/Matt-Chang/Machine_Learning_Projects/blob/main/07-2-Decision%20Trees%20and%20Random%20Forest%20Project.ipynb)
+
+For this project we will be exploring publicly available data from LendingClub. I will try to predict the high probability of paying the money back.
+
+[![08-Support Vector Machines with Python-](https://img.shields.io/badge/project-08--Support%20Vector%20Machines%20with%20Python-red)](https://github.com/Matt-Chang/Machine_Learning_Projects/blob/main/08-Support%20Vector%20Machines%20with%20Python.ipynb)
+
+I used Support Vector Machines to predict the probability of breast cancer.
+
