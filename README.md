@@ -53,3 +53,27 @@ For this project we will be exploring publicly available data from LendingClub. 
 
 I used Support Vector Machines to predict the probability of breast cancer.
 
+[![08-02-Support Vector Machines Project-](https://img.shields.io/badge/project-08--02--Support%20Vector%20Machines%20Project-red)](https://github.com/Matt-Chang/Machine_Learning_Projects/blob/main/08-02-Support%20Vector%20Machines%20Project.ipynb)
+
+For this series of projects, I will be using the famous Iris flower data set to practice Support Vector Machines.
+
+
+[![09-01-K Means Clustering with Python-](https://img.shields.io/badge/project-09--01--K%20Means%20Clustering%20with%20Python-red)](https://github.com/Matt-Chang/Machine_Learning_Projects/blob/main/09-01-K%20Means%20Clustering%20with%20Python..ipynb)
+
+1 - K Means Clustering practice.
+
+[![09-02-K Means Clustering with Python-](https://img.shields.io/badge/project-09--02--K%20Means%20Clustering-red)](https://github.com/Matt-Chang/Machine_Learning_Projects/blob/main/09-02-K%20Means%20Clustering%20Project.ipynb)
+
+In this project, I will use the dataset, College_Data, to implement Means Clustering.
+
+[![10-Principal Component Analysis-](https://img.shields.io/badge/project-010--Principal%20Component%20Analysis-red)](https://github.com/Matt-Chang/Machine_Learning_Projects/blob/main/010-Principal%20Component%20Analysis.ipynb)
+
+I used Principal Component Analysis on the dataset,breast cancer, to see correlation between the various feature and the principal component itself.
+
+
+[![11 -Recommender Systems with Python-](https://img.shields.io/badge/project-011--%20Recommender%20Systems%20with%20Python-red)](https://github.com/Matt-Chang/Machine_Learning_Projects/blob/main/011-%20Recommender%20Systems%20with%20Python.ipynb)
+
+In this project, I will develop basic recommendation systems using Python and pandas.
+In this notebook, I will focus on providing a basic recommendation system by suggesting items that are most similar to a particular item, in this case, movies.
+
+
