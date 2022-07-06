@@ -77,3 +77,14 @@ In this project, I will develop basic recommendation systems using Python and pa
 In this notebook, I will focus on providing a basic recommendation system by suggesting items that are most similar to a particular item, in this case, movies.
 
 
+[![12 - NLP with Python-](https://img.shields.io/badge/project-012%20--%20NLP%20with%20Python-red)](https://github.com/Matt-Chang/Machine_Learning_Projects/blob/main/012%20-%20NLP%20(Natural%20Language%20Processing)%20with%20Python.ipynb)
+
+In this projrct I will discuss a higher level overview of the basics of Natural Language Processing, which basically consists of combining machine learning techniques with text, and using math and statistics to get that text in a format that the machine learning algorithms can understand!
+
+
+[![12-02- NLP Project-](https://img.shields.io/badge/project-012--02%20NLP%20Project-red)](https://github.com/Matt-Chang/Machine_Learning_Projects/blob/main/012-02%20NLP%20Project.ipynb)
+
+We will use the Yelp Review Data Set from Kaggle.
+Each observation in this dataset is a review of a particular business by a particular user.
+
+
